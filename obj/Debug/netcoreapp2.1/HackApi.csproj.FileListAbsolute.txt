@@ -1,0 +1,15 @@
+C:\Personal Projects\HackApi\HackApi\bin\Debug\netcoreapp2.1\HackApi.deps.json
+C:\Personal Projects\HackApi\HackApi\bin\Debug\netcoreapp2.1\HackApi.runtimeconfig.json
+C:\Personal Projects\HackApi\HackApi\bin\Debug\netcoreapp2.1\HackApi.runtimeconfig.dev.json
+C:\Personal Projects\HackApi\HackApi\bin\Debug\netcoreapp2.1\HackApi.dll
+C:\Personal Projects\HackApi\HackApi\bin\Debug\netcoreapp2.1\HackApi.pdb
+C:\Personal Projects\HackApi\HackApi\obj\Debug\netcoreapp2.1\HackApi.csprojAssemblyReference.cache
+C:\Personal Projects\HackApi\HackApi\obj\Debug\netcoreapp2.1\HackApi.csproj.CoreCompileInputs.cache
+C:\Personal Projects\HackApi\HackApi\obj\Debug\netcoreapp2.1\HackApi.RazorAssemblyInfo.cache
+C:\Personal Projects\HackApi\HackApi\obj\Debug\netcoreapp2.1\HackApi.RazorAssemblyInfo.cs
+C:\Personal Projects\HackApi\HackApi\obj\Debug\netcoreapp2.1\HackApi.AssemblyInfoInputs.cache
+C:\Personal Projects\HackApi\HackApi\obj\Debug\netcoreapp2.1\HackApi.AssemblyInfo.cs
+C:\Personal Projects\HackApi\HackApi\obj\Debug\netcoreapp2.1\HackApi.RazorTargetAssemblyInfo.cache
+C:\Personal Projects\HackApi\HackApi\obj\Debug\netcoreapp2.1\HackApi.dll
+C:\Personal Projects\HackApi\HackApi\obj\Debug\netcoreapp2.1\HackApi.pdb
+C:\Personal Projects\HackApi\HackApi\bin\Debug\netcoreapp2.1\images\cy.jpg
